@@ -1,7 +1,7 @@
 # PROJELERİMİZ
 
 
-## normalbirsite.tk {İPTAL OLDU.}
+## normalbirsite.tk {İPTAL OLDU. AMA AÇİK. }
 
 [ae](https://ae.normalbirsite.tk/)
 
@@ -56,3 +56,13 @@
 ## publicprojectbot.tk {İPTAL OLDU.}
 
 [aoijs](https://aoijs.publicprojectbot.tk/)
+
+
+## trendythings.tk {HALA AÇIK!}
+
+[shopping](https://shopping.trendythings.tk/) 
+
+
+## notybot.tk {HALA AÇIK!}
+
+[turkce](https://turkce.notybot.tk/) 
